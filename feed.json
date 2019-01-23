@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "yaser.ga",
+    "description": "",
+    "home_page_url": "https://mmohamedyaser.github.io/bug-free-train",
+    "feed_url": "https://mmohamedyaser.github.io/bug-free-train/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Yaser"
+    },
+    "items": [
+    ]
+}
