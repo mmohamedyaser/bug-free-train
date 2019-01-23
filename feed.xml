@@ -3,12 +3,34 @@
     <title>yaser.ga</title>
     <link href="https://mmohamedyaser.github.io/bug-free-train/feed.xml" rel="self" />
     <link href="https://mmohamedyaser.github.io/bug-free-train" />
-    <updated>2019-01-24T01:13:01+04:00</updated>
+    <updated>2019-01-24T01:19:36+04:00</updated>
     <author>
         <name>Yaser</name>
     </author>
     <id>https://mmohamedyaser.github.io/bug-free-train</id>
 
+    <entry>
+        <title>Home</title>
+        <author>
+            <name>Yaser</name>
+        </author>
+        <link href="https://mmohamedyaser.github.io/bug-free-train/home.html"/>
+        <id>https://mmohamedyaser.github.io/bug-free-train/home.html</id>
+
+        <updated>2019-01-24T01:16:24+04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mmohamedyaser.github.io/bug-free-train/media/posts/2/" alt="" />
+                    Welcome home !
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mmohamedyaser.github.io/bug-free-train/media/posts/2/" alt="" />
+                Welcome home !
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>My Resume</title>
         <author>
